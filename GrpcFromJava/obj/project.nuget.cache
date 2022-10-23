@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "grhzkFNT9+tON+zFjSlKKZAllgh4qvOusBvGNDwVE5NYtOkQhf939WETWKhYveyFQeFoODa5/sRNrUDK2TAQgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laura\\OneDrive\\Documents\\GitHub\\GrpcLezgo\\GrpcFromJava\\GrpcFromJava.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laura\\.nuget\\packages\\google.protobuf\\3.21.8\\google.protobuf.3.21.8.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\grpc.core.api\\2.49.0\\grpc.core.api.2.49.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\grpc.net.client\\2.49.0\\grpc.net.client.2.49.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\grpc.net.common\\2.49.0\\grpc.net.common.2.49.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\grpc.tools\\2.50.0\\grpc.tools.2.50.0.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\laura\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
